@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GroupSave</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="see_events">See Events</string>
+    <string name="map_view">Map View</string>
+    <string name="create_new_event">Create New Event</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="create_event">Create Event</string>
+    <string name="profile_text">Profile</string>
+</resources>
