@@ -50,20 +50,20 @@ public class HomePage extends AppCompatActivity {
 
     }
     private void goToProfile(){
-        Intent intent = new Intent(this, Profile.class);
-        startActivity(intent);
+        Intent intentProfile = new Intent(this, Profile.class);
+        startActivity(intentProfile);
     }
     private void goToSeeEvents(){
-        Intent intent = new Intent(this, SeeEvents.class);
-        startActivity(intent);
+        Intent intentSeeEvents = new Intent(this, SeeEvents.class);
+        startActivity(intentSeeEvents);
     }
     private void goToCreateEvents(){
-        Intent intent = new Intent(this, CreateEvent.class);
-        startActivity(intent);
+        Intent intentCreateEvents = new Intent(this, CreateEvent.class);
+        startActivity(intentCreateEvents);
     }
     private void goToMap(){
-        Intent intent = new Intent(this, MapsActivity.class);
-        startActivity(intent);
+        Intent intentMap = new Intent(this, MapsActivity.class);
+        startActivity(intentMap);
     }
 
 
